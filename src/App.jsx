@@ -357,8 +357,8 @@ const STYLES = `
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
 const URLS = {
-  Departamento: 'https://github.com/sfkaplan/Dash_Econometrica/raw/refs/heads/main/departamentos.xlsx',
-  Casa: 'https://github.com/sfkaplan/Dash_Econometrica/raw/refs/heads/main/casas.xlsx',
+  Departamento: 'https://github.com/sfkaplan/Dash_Inmobiliario/tree/main/public/data/departamentos.xlsx',
+  Casa: 'https://github.com/sfkaplan/Dash_Inmobiliario/tree/main/public/data/casas.xlsx',
 };
 
 // Fetch + parse XLSX via SheetJS
