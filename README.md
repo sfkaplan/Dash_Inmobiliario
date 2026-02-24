@@ -10,35 +10,7 @@ App de análisis de mercado inmobiliario construida en React, con gráficos inte
 
 ---
 
-## Deploy en Vercel (gratis, ~3 minutos)
 
-### Opción A — GitHub (recomendado)
-1. Subí esta carpeta a un repositorio GitHub.
-2. Entrá a [vercel.com](https://vercel.com) y creá una cuenta gratuita.
-3. Hacé clic en **"Add New Project"** → importá el repo.
-4. Vercel detecta automáticamente que es Create React App. Dejá todo por defecto.
-5. Hacé clic en **Deploy**. ✓
-
-Cada `git push` redespliega automáticamente.
-
-### Opción B — Vercel CLI
-```bash
-npm install -g vercel
-cd inmobiliaria-app
-npm install
-vercel --prod
-```
-
----
-
-## Correr localmente
-```bash
-npm install
-npm start
-# → http://localhost:3000
-```
-
----
 
 ## Estructura
 ```
